@@ -1,0 +1,2 @@
+name: Nether
+kind: bat
